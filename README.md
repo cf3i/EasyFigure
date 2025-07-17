@@ -1,2 +1,3 @@
 # EasyFigure
-A lightweight python figure generator
+
+Simple python matplotlib wrapper, used for draw some plots quickly.
